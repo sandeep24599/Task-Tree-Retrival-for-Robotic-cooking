@@ -3,7 +3,7 @@
 The FOON Task Planner is a Python-based tool designed to facilitate task planning in a functional object-oriented network (FOON) environment. The FOON network consists of functional units (FUs) and objects, representing tasks and the objects involved in those tasks, respectively. This project's primary goal is to find an optimal sequence of FUs to achieve a specific task using various heuristic search methods.
 
 # Features
-# Search Heuristics: 
+Search Heuristics: 
 The project offers three different heuristic search methods to find optimal task sequences.
 
 Heuristic 1 (Search Heuristic 1): This method prioritizes FUs with the highest success probabilities for motion. It aims to find the most likely path to accomplish a task efficiently.
