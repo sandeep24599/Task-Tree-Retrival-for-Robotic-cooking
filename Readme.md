@@ -1,4 +1,4 @@
-# FOON (Functional Object-Oriented Network) Task Planner
+# FOON (Functional Object-Oriented Network) Task Planner using python
 # Project Overview
 The FOON Task Planner is a Python-based tool designed to facilitate task planning in a functional object-oriented network (FOON) environment. The FOON network consists of functional units (FUs) and objects, representing tasks and the objects involved in those tasks, respectively. This project's primary goal is to find an optimal sequence of FUs to achieve a specific task using various heuristic search methods.
 
