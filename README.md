@@ -11,7 +11,7 @@ Heuristic 2 (Search Heuristic 2): This heuristic focuses on minimizing the numbe
 IDDFS (Iterative Deepening Depth-First Search): This approach incrementally explores FUs at increasing depth levels, looking for the optimal task sequence.
 Leaf Node Detection: The project includes a mechanism to detect leaf nodes in the FOON network, which are the objects at the lowest depth levels that exist in the kitchen.
 
-# Kitchen Simulation: 
+**# Kitchen Simulation: **
 The tool allows you to specify the objects present in the "kitchen," and it helps determine the optimal task sequence to achieve a specific task using objects available in the kitchen.
 
 # Getting Started
